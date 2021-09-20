@@ -1,0 +1,24 @@
+# 
+star1: 
+    linelist: /home/FASMA-synthesis/FASMA/rawLinelist/linelist.lst 
+    teff: 5777
+    logg: 4.44
+    feh: 0.0
+    vt: 1.0
+    vmac: 3.21
+    vsini: 1.90
+    model: marcs
+    plot: True
+    plot_res: False
+    intervals_file: /home/FASMA-synthesis/FASMA/rawLinelist/intervals.lst 
+    resolution: 115000
+
+
+
+
+
+
+
+
+
+
