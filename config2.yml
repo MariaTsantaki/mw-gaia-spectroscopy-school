@@ -1,0 +1,31 @@
+# 
+star1: 
+    linelist: /home/FASMA-synthesis/FASMA/rawLinelist/element.lst 
+    teff: 5777
+    logg: 4.44
+    feh: 0.0
+    vt: 1.0
+    vmac: 3.21
+    vsini: 1.90
+    model: marcs
+    element: Li
+    plot: True
+    plot_res: False
+    damping: 1
+    step_wave: 0.01
+    step_flux: 3.0
+    intervals_file: /home/FASMA-synthesis/FASMA/rawLinelist/intervals_element.lst 
+    resolution: 115000
+    snr: null
+    limb: 0.6
+    observations: /home/FASMA-synthesis/FASMA/spectra/Sun_HARPS.fits
+
+
+
+
+
+
+
+
+
+
