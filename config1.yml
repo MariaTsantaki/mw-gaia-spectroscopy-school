@@ -8,10 +8,25 @@ star1:
     vmac: 3.21
     vsini: 1.90
     model: marcs
+    element: False
+    fix_teff: False
+    fix_logg: False
+    fix_feh: False
+    fix_vt: True
+    fix_vmac: True
+    fix_vsini: False
     plot: True
     plot_res: False
+    damping: 1
+    step_wave: 0.01
+    step_flux: 3.0
     intervals_file: /home/FASMA-synthesis/FASMA/rawLinelist/intervals.lst 
     resolution: 115000
+    minimize: True
+    refine: True
+    snr: null
+    limb: 0.6
+    observations: /home/FASMA-synthesis/FASMA/spectra/Sun_HARPS.fits
 
 
 
