@@ -3,7 +3,7 @@ Hands on excersices
 
 **1)** Install [FASMA](https://github.com/MariaTsantaki/FASMA-synthesis/) 
 
-**2)** Download spectra from the `spectra` folder
+**2)** Check the spectra from the `spectra` folder
 
 # Exercise 1
 
